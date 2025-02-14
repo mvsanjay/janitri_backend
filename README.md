@@ -25,9 +25,9 @@ This is a backend API for monitoring patient heart rate data. The project is bui
     pip install -r requirements.txt
    
 4. Set up the database:
-     Install MySQL.
-     Create a database named janitri.
-     Update .env file with your MySQL credentials.
+   - Install MySQL.
+   - Create a database named janitri.
+   - Update .env file with your MySQL credentials.
    
 5. Run the migrations:
    ```bash
